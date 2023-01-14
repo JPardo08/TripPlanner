@@ -1,0 +1,80 @@
+Caso 1:
+Llevaras acompanantes (yes/no/idk)?)yes
+Que cantidad de acompaÃ±antes llevas (high - [>=5]/medium - [2-4]/low - [1])?)high
+De que ambito son los acompaÃ±antes (amigos/familia/trabajo)?)amigos
+En que rango de edad esta la edad media del grupo (high - [>50]/medium - [30-50]/low - [<30])?)low
+En que rango de presupuesto te encuentras 
+						(high - [>10k]/medium - [5k-10k]/low - [<5k])?)low
+Que tipo de alojamiento quieres (adosado/hotel/habitacion/hostal/apartamento)?)hostal
+En que rango de presupuesto te encuentras para el alojamiento
+						(high - [>5k]/medium - [2k-5k]/low - [<2k])?)low
+Como de larga van a ser tus vacaciones (large - [1 mes]/medium - [15 dias]/short- [Fin de semana])?)medium
+Quiere realizar turismo en sus vacaciones (yes/no/idk)?)yes
+Quiere un guia para el turismo en sus vacaciones (yes/no/idk)?)no
+Te da igual la distancia que se recorra haciendo turismo (yes/no/idk)?)idk
+En que rango de presupuesto te encuentras 
+						(high - [>1k]/medium - [0.5k-1k]/low - [<0.5k])?)low
+Que tipo de turismo quieres realizar 
+						(visitar-plaza / parques / monumentos / ocio-nocturno-barato) ?)ocio-nocturno-barato
+Necesitas vehiculo para tus vacaciones (yes/no/idk)?)yes
+Es tu vehiculo personal o quieres alquiler (personal / alquiler) ?)personal
+Cual es tu presupuesto para gasolina (high - [>500E.]/medium - [300E.-500E.]/low - [<300E.])?)low
+Que tipo de comida quieres para tus vacaciones (restaurante / casera / hibrida) ?)hibrida
+A que tipo de restaurante quieres ir en tus vacaciones (italiano / mexicano / espanola / turco) ?)italiano
+Vas a comer o a cenar fuera (comer / cenar) ?)cenar
+Cual es tu presupuesto para comer (high - [>500E.]/medium - [200E.-500E.]/low - [<200E.])?)medium
+
+
+Nuestra recomendacion es que vayas de vacaciones a Cuenca, te hospedaras en un hostal barato
+			, vuestro turismo consistira en ocio nocturno en lugares baratos, 
+	llevareis vuestro propio vehiculo y cenareis se en un italiano de buena calidad donde no os gatareis mucho dinero.
+
+
+
+CASO 2:
+
+Llevaras acompanantes (yes/no/idk)?)yes
+Que cantidad de acompaÃ±antes llevas (high - [>=5]/medium - [2-4]/low - [1])?)medium
+De que ambito son los acompaÃ±antes (amigos/familia/trabajo)?)familia
+Hay niÃ±os en el grupo (yes/no/idk)?)yes
+Que edad tienen los niÃ±os (low [<=10] / high [>10])?)high
+En que rango de presupuesto te encuentras 
+						(high - [>10k]/medium - [5k-10k]/low - [<5k])?)medium
+Que tipo de alojamiento quieres (adosado/hotel/habitacion/hostal/apartamento)?)hotel
+En que rango de presupuesto te encuentras para el alojamiento
+						(high - [>5k]/medium - [2k-5k]/low - [<2k])?)medium
+Como de larga van a ser tus vacaciones (large - [1 mes]/medium - [15 dias]/short- [Fin de semana])?)medium
+Quiere realizar turismo en sus vacaciones (yes/no/idk)?)idk
+Necesitas vehiculo para tus vacaciones (yes/no/idk)?)idk
+Que tipo de comida quieres para tus vacaciones (restaurante / casera / hibrida) ?)casera
+Cual es tu presupuesto para comer (high - [>500E.]/medium - [200E.-500E.]/low - [<200E.])?)medium
+
+
+Nuestra recomendacion es que vayas de vacaciones a Gandia, te hospedaras en un hotel de 3 estrellas
+			, en el caso que querais hacer turismo se os facilitara un mapa de los monumentos de la ciudad, en el caso de que no lleveis vuestro vehiculo personal
+			se os dara la direccion para alquilar uno y comereis y cenareis en el hotel.
+
+
+CASO 3:
+
+Llevaras acompanantes (yes/no/idk)?)no
+En que rango de edad estas (high - [>50]/medium - [30-50]/low - [<30])?)high
+En que rango de presupuesto te encuentras 
+						(high - [>10k]/medium - [5k-10k]/low - [<5k])?)high
+Que tipo de alojamiento quieres (adosado/hotel/habitacion/hostal/apartamento)?)hotel
+En que rango de presupuesto te encuentras para el alojamiento
+						(high - [>5k]/medium - [2k-5k]/low - [<2k])?)high
+Como de larga van a ser tus vacaciones (large - [1 mes]/medium - [15 dias]/short- [Fin de semana])?)large
+Quiere realizar turismo en sus vacaciones (yes/no/idk)?)idk
+Necesitas vehiculo para tus vacaciones (yes/no/idk)?)yes
+Es tu vehiculo personal o quieres alquiler (personal / alquiler) ?)alquiler
+Que tipo de vehiculo quieres alquilar (moto / coche / furgoneta)?)coche
+Cual es tu presupuesto para el alquiler (high - [>500E.]/medium - [200E.-500E.]/low - [<200E.])?)high
+Que tipo de comida quieres para tus vacaciones (restaurante / casera / hibrida) ?)restaurante
+A que tipo de restaurante quieres ir en tus vacaciones (italiano / mexicano / espanola / turco) ?)espanola
+Cual es tu presupuesto para comer (high - [>500E.]/medium - [200E.-500E.]/low - [<200E.])?)high
+
+
+Nuestra recomendacion es que vayas de vacaciones a Marbella, te hospedaras en un hostal de 5 estrellas
+			,en el caso que quieras hacer turismo la agencia estara a tu disposicion, se os facilitara un coche de alta gama de alquiler y
+			y comereis y cenareis en el mejor restaurante de la ciudad de comida espano
